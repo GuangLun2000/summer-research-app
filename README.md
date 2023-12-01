@@ -1,4 +1,4 @@
-# Summer Research (Useful Links)
+# Summer Research App 海外暑研申请指南 ✈️
 
 - ### 暑研扫盲<br>
   
@@ -124,6 +124,8 @@
   
     <br>
 
-<br>Written by [Hanlin CAI](https://caihanlin.com/), final update in Nov 2023.
+<br>如果这份材料给你提供了帮助，请给这个Github项目一个Star吧 😊
 
-<br>
+<br>项目地址：[summer-research-app](https://github.com/GuangLun2000/summer-research-app)
+
+<br>Written by [Hanlin CAI](https://caihanlin.com/), final update in Nov 2023.
