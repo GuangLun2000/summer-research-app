@@ -1,10 +1,4 @@
----
-layout: page
-permalink: /blogs/summer-res/index.html
-title: summer-res
----
-
-## Summer Research (Useful Links)
+# Summer Research App 海外暑研申请指南 ✈️
 
 又到一年十二月，很多海外高校陆陆续续开放2024年度的官方暑研申请了，去年在知乎、一亩三分地等平台获得了很多有益的资讯，今年也来回馈一下社区。
 
@@ -12,9 +6,9 @@ title: summer-res
 
 下面，笔者分享了值得一读的文章，以及去年收集的超过20个学校的官方暑研项目链接，供大家参考。需要注意的是，每所学校，每个项目，每年的政策和招录指标都不尽相同。
 
-如果读者希望获取最新的讯息，建议使用Google搜索：**“对应学校+Summer Reserach Internship Programme”**
+如果读者希望获取最新的讯息，建议使用Google搜索：**“对应学校 + Summer Reserach Internship Programme”**
 
----
+<br>
 
 - ### 暑研扫盲<br>
   
