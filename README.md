@@ -141,3 +141,7 @@
 <br>项目地址：[summer-research-app](https://github.com/GuangLun2000/summer-research-app)
 
 <br>Written by [Hanlin CAI](https://caihanlin.com/), final update in Nov 2023.
+
+<br>
+
+![]https://star-history.com/#GuangLun2000/summer-research-app&Date
