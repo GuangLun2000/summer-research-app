@@ -142,8 +142,7 @@
 
 <br>Written by [Hanlin CAI](https://caihanlin.com/), final update in Dec 2023.
 
-## Star History
+## <br>Star History
 
-[![Star History Chart](README.assets/summer-research-app&type=Date)](https://star-history.com/#GuangLun2000/summer-research-app&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/summer-research-app&type=Date)](https://star-history.com/#GuangLun2000/summer-research-app&Date)
 
-<br>
