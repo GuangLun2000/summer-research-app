@@ -136,13 +136,14 @@
   
     <br>
 
-<br>如果这份材料给你提供了帮助，请给这个Github项目一个Star吧 😊
+如果这份材料给你提供了帮助，请给这个Github项目一个Star吧 😊
 
 <br>项目地址：[summer-research-app](https://github.com/GuangLun2000/summer-research-app)
 
-<br>Written by [Hanlin CAI](https://caihanlin.com/), final update in Nov 2023.
-
----
+<br>Written by [Hanlin CAI](https://caihanlin.com/), final update in Dec 2023.
 
 ## Star History
 
+[![Star History Chart](README.assets/summer-research-app&type=Date)](https://star-history.com/#GuangLun2000/summer-research-app&Date)
+
+<br>
