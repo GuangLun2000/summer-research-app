@@ -142,6 +142,9 @@
 
 <br>Written by [Hanlin CAI](https://caihanlin.com/), final update in Nov 2023.
 
+<<<<<<< Updated upstream
 <br>
 
 ![](https://star-history.com/#GuangLun2000/summer-research-app&Date)
+=======
+>>>>>>> Stashed changes
