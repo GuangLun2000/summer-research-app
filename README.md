@@ -150,8 +150,10 @@
 
 ## 付费咨询
 
-暑期科研，免费邮件咨询：[hanlin.cai@ieee.org](mailto:hanlin.cai@ieee.org)，仅限回答2个（组织良好且有趣）的问题
+暑期科研，免费邮件咨询：[hanlin.cai@ieee.org](mailto:hanlin.cai@ieee.org)，可以回答2个（组织良好且有趣）的问题
 
-欢迎付费咨询，线上腾讯会议1v1，良心费用100元/每小时，保证你有所收获。欢迎加我微信。
+欢迎付费咨询，线上腾讯会议1v1，咨询费用100元/每小时。欢迎加我~
+
+<br>
 
 ![wechat](README.assets/wechat.png)
