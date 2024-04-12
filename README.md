@@ -1,10 +1,16 @@
 # Summer Research App 海外暑研申请指南
 
-又到一年十二月，很多海外高校陆陆续续开放2024年度的官方暑研申请了，去年在知乎、一亩三分地等平台获得了很多有益的资讯，今年也来回馈一下社区。
+>请注意：本文今后只会在Github repo中更新。
+>
+>Update: 2024/04/12
 
-笔者在2022年底投递了包括[Mitacs](https://www.mitacs.ca/our-programs/globalink-research-internship-students/), [CERN](https://careers.cern/students), [UWA Summer](https://www.uwa.edu.au/study/courses-and-careers/short-courses/uwa-summer-down-under), [ETH Zurich Summer](https://inf.ethz.ch/studies/summer-research-fellowship.html)等共计6个官方暑研项目，并套瓷了3个暑期研究助理职位。最终拿到了1个官方项目的录取，以及1份远程RA的接收。因为签证和实习学期的原因，笔者最终选择了后者。
+又到一年12月，很多海外高校陆陆续续开放官方的暑研申请。去年笔者在知乎、一亩三分地等平台获得了很多有益的资讯，今年也来回馈一下社区。
 
-下面，笔者分享了值得一读的文章，以及去年收集的超过20个学校的官方暑研项目链接，供大家参考。需要注意的是，每所学校，每个项目，每年的政策和招录指标都不尽相同。
+笔者在2022年底投递了包括[Mitacs](https://www.mitacs.ca/our-programs/globalink-research-internship-students/), [CERN](https://careers.cern/students), [UWA Summer](https://www.uwa.edu.au/study/courses-and-careers/short-courses/uwa-summer-down-under), [ETH Zurich Summer](https://inf.ethz.ch/studies/summer-research-fellowship.html)等共计6个官方暑研项目，并套瓷了3个暑期研究助理职位。最终拿到了1个官方项目的录取，以及1份远程RA的接收。因为签证和实习的原因，笔者最终选择了后者remote RA。最终这份暑研的推荐信，也帮助我成功申请到了剑桥大学工程系的研究型硕士。
+
+下面，笔者分享了值得一读的文章，以及去年收集的超过30个学校的官方暑研项目链接，供大家参考。
+
+需要注意的是，每所学校，每个项目，每年的政策和招录指标都不尽相同。
 
 如果读者希望获取最新的讯息，建议使用Google搜索：**“对应学校 + Summer Reserach Internship Programme”**
 
@@ -144,16 +150,14 @@
 
 <br>项目地址：[summer-research-app](https://github.com/GuangLun2000/summer-research-app)
 
-<br>Written by [Hanlin CAI](https://caihanlin.com/), final update in Jan 2024.
-
 <br>
 
 ## 付费咨询
 
 暑期科研，免费邮件咨询：[hanlin.cai@ieee.org](mailto:hanlin.cai@ieee.org)，可以回答2个（组织良好且有趣）的问题
 
-欢迎付费咨询，线上腾讯会议1v1，咨询费用100元/每小时。欢迎加我~
+欢迎付费咨询（线上腾讯会议1v1）咨询费用100元/每小时。
 
 <br>
 
-![wechat](README.assets/wechat.png)
+![wechat](wechat.png)
