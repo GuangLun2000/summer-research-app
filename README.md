@@ -161,3 +161,86 @@
 <br>
 
 ![wechat](wechat.png)
+
+
+
+---
+
+## 补充：欧陆官方岗位制Position信息
+
+> 作者：一棵菠菜
+> 链接：https://zhuanlan.zhihu.com/p/699272722
+
+瑞士（苏黎世、伯尔尼、巴塞尔）
+
+https://jobs.ethz.ch/site/index
+
+https://www.karriere.unibe.ch/jobs/job_portal/index_eng.html
+
+https://www.unibas.ch/en/Working-at-the-University-of-Basel/Current-Vacancies.html
+
+丹麦（奥胡斯、哥本哈根）
+
+https://international.au.dk/about/profile/vacant-positions
+
+https://employment.ku.dk/phd/
+
+瑞典（哥德堡、Uppsala）
+
+https://www.gu.se/en/work-at-the-university-of-gothenburg/vacancies 
+
+https://www.jobb.uu.se/?languageId=1&positionType=doktorand&sortValue=published
+
+荷兰（Amsterdam）
+
+https://vacatures.uva.nl/UvA/search/?createNewAlert=false&q&optionsFacetsDD_department&optionsFacetsDD_shifttype=PhD+position&optionsFacetsDD_facility
+
+芬兰（Turku）
+
+https://www.utu.fi/en/university/come-work-with-us/open-vacancies
+
+挪威（卑尔根）
+
+https://www.uib.no/en/about/84777/vacant-positions-uib
+
+英国大学各官网有project，如UCL
+
+https://www.ucl.ac.uk/eastman/research/potential-students/current-phd-projects
+
+- **各国搜PhD平台**
+
+德国http://www.jobvector.de/en/ 
+
+[jobs.ac.uk/phd](https://www.jobs.ac.uk/phd)
+
+[www.phdportal.com/search/phd](http://www.phdportal.com/search/phd)  
+
+荷兰[www.academictransfer.com/en](http://www.academictransfer.com/en) 
+
+法国https://www.campusfrance.org/en
+
+http://nature.com/naturecareers/jobs/science-jobs
+
+公开职位[https://academicpositions.com](https://academicpositions.com/) 
+
+[www.academics.com](http://www.academics.com/)
+
+https://scholarshipdb.net/scholarships/Program-PhD?
+
+欧洲[euraxess.ec.europa.eu/](https://euraxess.ec.europa.eu/)
+
+[universitypositions.eu/](https://www.universitypositions.eu/)
+
+瑞典 [www.varbi.com/en/](http://www.varbi.com/en/) 
+
+丹麦 https://www.phd-positions.dk
+
+挪威https://www.jobbnorge.no/search
+
+英国https://www.findaphd.com/
+
+不需要提前联系老师直接网申的国家有：美新加坡加拿大西班牙意大利新西兰英国个别学校
+
+最靠谱的方法是海量套磁多国混申，除了普通、岗位PhD，还有结构式博士如德国DAAD
+
+搜索时多换关键词，官网教授不好找的话可以researchgate按学校类别查教授
