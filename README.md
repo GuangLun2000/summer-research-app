@@ -8,7 +8,7 @@
 
 笔者在2022年底投递了包括[Mitacs](https://www.mitacs.ca/our-programs/globalink-research-internship-students/), [CERN](https://careers.cern/students), [UWA Summer](https://www.uwa.edu.au/study/courses-and-careers/short-courses/uwa-summer-down-under), [ETH Zurich Summer](https://inf.ethz.ch/studies/summer-research-fellowship.html)等等，共计6个官方暑研项目，并套瓷了3个暑期研究助理职位。最终拿到了1个官方项目的录取，以及1份远程RA的接收（NUS Research Fellow）
 
-因为签证和业界实习的考虑，笔者最终选择了remote RA，最终凭借两段暑研的推荐信，成功申请到了剑桥大学工程系的MPhil in Engineering（每年录取约15人～15/130）
+因为签证和业界实习的考虑，笔者最终选择了remote RA，最终凭借两段暑研的推荐信，成功申请到了剑桥大学工程系的MPhil in Engineering（每年录取约10人～10/120）
 
 下面，笔者分享了值得一读的文章，以及去年收集的超过30个学校的官方暑研项目链接，供大家参考。需要注意的是，每所学校，每个项目，每年的政策和招录指标都不尽相同。
 
