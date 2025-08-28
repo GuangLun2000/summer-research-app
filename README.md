@@ -2,17 +2,19 @@
 
 >Note: 本文今后只会在这个Github repo中更新。压箱底的模版和干货都分享啦，觉得有帮助就点个Star吧！🥳
 >
->Update: 2024/04/12
+>Update: 2025/08
 
 又到一年12月，很多海外高校陆陆续续开放官方的暑研申请。去年笔者在知乎、一亩三分地等平台获得了很多有益的资讯，今年也来回馈一下社区。
 
 笔者在2022年底投递了包括[Mitacs](https://www.mitacs.ca/our-programs/globalink-research-internship-students/), [CERN](https://careers.cern/students), [UWA Summer](https://www.uwa.edu.au/study/courses-and-careers/short-courses/uwa-summer-down-under), [ETH Zurich Summer](https://inf.ethz.ch/studies/summer-research-fellowship.html)等等，共计6个官方暑研项目，并套瓷了3个暑期研究助理职位。最终拿到了1个官方项目的录取，以及1份远程RA的接收（NUS Research Fellow）
 
-因为签证和业界实习的考虑，笔者最终选择了remote RA，最终凭借两段暑研的推荐信，成功申请到了剑桥大学工程系的MPhil in Engineering（每年录取约10人～10/120）
+因为签证和业界实习的考虑，笔者最终选择了remote RA，最终凭借两段暑研的推荐信，以及产出的一篇会议paper，成功申请到了剑桥大学工程系的MPhil in Engineering（每年录取约10人～10/120），后续又进一步获得了剑桥的博士全奖。
 
 下面，笔者分享了值得一读的文章，以及去年收集的超过30个学校的官方暑研项目链接，供大家参考。需要注意的是，每所学校，每个项目，每年的政策和招录指标都不尽相同。
 
 如果读者希望获取最新的讯息，建议使用Google搜索：**“对应学校 + Summer Reserach Internship Programme”**
+
+希望这个仓库可以帮到大家，祝大家学业有成，申请顺利！
 
 ## Star History
 
